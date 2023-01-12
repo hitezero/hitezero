@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+    <img width="1024" img height = "400" src="https://user-images.githubusercontent.com/122417314/211971982-ce19cce5-99d4-4159-8e82-90fb42b44e03.gif">
+</p>
+
 <h2> About Me </h2>
 <a href="https://linkedin.com/in/sarah307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/sarah307"/></a>&nbsp
 <a href="https://www.instagram.com/s.hee__37/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=LinkedIn&logoColor=white&link=https://www.instagram.com/s.hee__37/"/></a>&nbsp
