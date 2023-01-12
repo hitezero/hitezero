@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> My Tech Stack </h2>
-! [Python] (https://img.shields.io/static/v1?label=<Python>&message=<_>&color=<GREEN>)
+! [Python] (https://img.shields.io/static/v1?label=<Python>&message=<_>&color=<blue>)
