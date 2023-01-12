@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> My Tech Stack </h2>
-! [Python] (https://img.shields.io/static/v1?label=<Python>&message=<_>&color=<blue>)
+! [HTML] (https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=fffff)
+
