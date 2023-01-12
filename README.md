@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> My Tech Stack </h2>
-<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 
 
 
@@ -26,8 +24,16 @@ Here are some ideas to get you started:
 
 
 
+
+<h2> My Tech Stack </h2>
+<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+
+
+
+
 ![Hitezero's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitezero&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitezero)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitezero)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
