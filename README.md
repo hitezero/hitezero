@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 <h2> About Me </h2>
-<a href="linkedin.com/in/sarah307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=linkedin.com/in/sarah307"/></a>&nbsp
+<a href="https://linkedin.com/in/sarah307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/sarah307"/></a>&nbsp
 <a href="https://www.instagram.com/s.hee__37/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=LinkedIn&logoColor=white&link=https://www.instagram.com/s.hee__37/"/></a>&nbsp
